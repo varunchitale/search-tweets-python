@@ -306,7 +306,7 @@ it's good to inspect the time series of data to see what range it
 covers.
 
 Since Tweets are automatically parsed with the `Tweet
-Parser <https://tw-ddis.github.io/tweet_parser/index.html>`__ in our
+Parser <https://twitterdev.github.io/tweet_parser/index.html>`__ in our
 Python session, we can use some of the convenient attributes to pull out
 the text data.
 
