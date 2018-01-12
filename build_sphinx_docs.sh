@@ -21,7 +21,7 @@ pwd
 echo "removing current files"
 rm -rf ./*.egg-info
 git pull origin gh-pages
-rm -r ./*.html ./*.js ./_modules ./_sources ./_static
+rm -r ./*.html ./*.js ./_modules ./_sources ./_static ./_images
 touch .nojekyll
 git checkout $BRANCH_NAME docs $REPO_NAME README.rst
 # need to do this step because the readme will be overwritten
