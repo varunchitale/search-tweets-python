@@ -2,16 +2,16 @@
 Learning More With Twitter Data
 ###############################
 
-Twitter is the place to find out and share what is happening, with
-hundreds of millions of Tweets sent each and every day. We are a team a
-data scientists at Twitter who are trying to help people do more with
-this vast amount of data in less time. In this spirit, we are starting a
-series of tutorials that aim to help people work with Twitter data
-effectively. Each of the posts in this series centers around a real-life
-example project and provides MIT-licensed code that you can use to
-bootstrap your projects with our enterprise and premium API products. We
-hope this series is fruitful for you and we are excited to see what
-you'll build.
+Twitter is what's happening and what people are talking about right now, with
+hundreds of millions of Tweets sent each day. We're a group of data scientists
+on the Twitter Data team who are helping people do more with this vast amount
+of data in less time. In this spirit, we are starting a series of tutorials
+that aim to help people work with Twitter data effectively. Each of the posts
+in this series centers around a real-life example project and provides
+MIT-licensed code that you can use to bootstrap your projects with our
+enterprise and premium API products. We hope this series is fruitful for you
+and we are excited to see what you'll build.
+
 
 **************************
 *Clustering Twitter Users*
